@@ -1,0 +1,3 @@
+mspaint.exe
+notepad.exe
+write.exe
